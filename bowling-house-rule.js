@@ -33,7 +33,7 @@ window.wikiData.push(
             },
             {
                 title:"X Set - 1X2",
-                info:"`<p>Se debe predecir el resultado del X set. Hay 3 posibles resultados: 1 (el jugador 1 gana), X (los jugadores empatarán), 2 (el jugador 2 gana).",
+                info:"<p>Se debe predecir el resultado del X set. Hay 3 posibles resultados: 1 (el jugador 1 gana), X (los jugadores empatarán), 2 (el jugador 2 gana).",
                 detail: "En el mercado de X Set - 1X2, el objetivo es predecir el resultado del set específico (por ejemplo, el tercer set) durante el partido. Esto añade una capa extra de emoción, ya que no solo estás apostando por el ganador del partido, sino también por el resultado de un set en particular.",
                 status: "Bolos",
                 type: "bolos-bet-rule-house"
